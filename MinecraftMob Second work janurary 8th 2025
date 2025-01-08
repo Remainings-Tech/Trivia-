@@ -1,0 +1,13 @@
+#Kenny 1/8/25
+#When running the code, it prints 4 lines.
+#solo
+#17 mins
+
+MinecraftMob = ["Witch", "Creeper", "Pig"]#3 different mobs
+print(MinecraftMob)
+MinecraftMob.append("Sheep")#Extra mob
+print(MinecraftMob)
+MinecraftMob.sort()
+print(MinecraftMob)
+MinecraftMob.remove("Witch")
+print(MinecraftMob)
